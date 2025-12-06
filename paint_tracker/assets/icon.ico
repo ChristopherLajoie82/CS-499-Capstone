@@ -1,0 +1,16 @@
+This file needs to be created using an image editor that supports ICO format with multiple sizes (16x16, 32x32, 48x48, 64x64, 128x128, and 256x256 pixels). Since I cannot create binary files directly, you'll need to:
+
+1. Create or obtain your desired icon image
+2. Convert it to ICO format with these sizes:
+   - 16x16 (Taskbar, File Explorer)
+   - 32x32 (File Explorer, Desktop)
+   - 48x48 (Alt-Tab switcher)
+   - 64x64 (Windows Start Menu)
+   - 128x128 (Windows Search)
+   - 256x256 (High DPI displays)
+
+You can use tools like:
+- Adobe Photoshop with ICO plugin
+- GIMP (free)
+- IcoFX (specialized icon editor)
+- Online converters like convertio.co
